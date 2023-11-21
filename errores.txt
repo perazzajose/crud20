@@ -1,0 +1,9 @@
+en html rows en vez de rows
+
+inputnobre a noMbre
+
+cambiar post por put y geruserbyid por deleteuser
+
+segun chatgpt codigo innecesario de modal xd
+
+se agrega databsdismissmodaal al boton para que guarde
